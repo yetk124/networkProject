@@ -1,4 +1,4 @@
-## webserver-Project 
+## network-Project 
 ### 2023.09 ~ 2023.11
 
 - 🎮 라이어 게임 (Swing GUI 구현)
